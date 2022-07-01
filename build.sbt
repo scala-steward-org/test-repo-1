@@ -1,5 +1,7 @@
-name := "test-repo-1"
+ name := "test-repo-1"
 
-  libraryDependencies ++= Seq(
+ libraryDependencies ++= Seq(
+
     "eu.timepit" %% "refined" % "0.9.29"
-)
+
+ )
