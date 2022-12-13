@@ -26,5 +26,10 @@
             <artifactId>commons-io</artifactId>
             <version>2.11.0</version>
         </dependency>
+        <dependency>
+            <groupId>org.scala-steward</groupId>
+            <artifactId>scala-steward-mill-plugin_2.13</artifactId>
+            <version>0.7.0</version>
+        </dependency>
     </dependencies>
 </project>
