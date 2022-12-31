@@ -31,5 +31,10 @@
             <artifactId>scala-steward-mill-plugin_2.13</artifactId>
             <version>0.16.1</version>
         </dependency>
+        <dependency>
+            <groupId>org.scala-steward</groupId>
+            <artifactId>scala-steward-core_2.13</artifactId>
+            <version>0.6.0</version>
+        </dependency>
     </dependencies>
 </project>
