@@ -18,7 +18,7 @@
         <dependency>
             <groupId>org.typelevel</groupId>
             <artifactId>cats-effect_2.13</artifactId>
-            <version>3.4.7</version>
+            <version>3.4.8</version>
         </dependency>
         <dependency>
             <groupId>junit</groupId>
