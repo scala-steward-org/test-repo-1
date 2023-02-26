@@ -12,8 +12,13 @@
         </dependency>
         <dependency>
             <groupId>org.typelevel</groupId>
+            <artifactId>algebra_2.13</artifactId>
+            <version>2.9.0</version>
+        </dependency>
+        <dependency>
+            <groupId>org.typelevel</groupId>
             <artifactId>cats-effect_2.13</artifactId>
-            <version>3.4.6</version>
+            <version>3.4.8</version>
         </dependency>
         <dependency>
             <groupId>junit</groupId>
@@ -34,7 +39,7 @@
         <dependency>
             <groupId>org.scala-steward</groupId>
             <artifactId>scala-steward-core_2.13</artifactId>
-            <version>0.21.0</version>
+            <version>0.22.0</version>
         </dependency>
     </dependencies>
 </project>
