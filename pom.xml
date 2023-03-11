@@ -39,7 +39,7 @@
         <dependency>
             <groupId>org.scala-steward</groupId>
             <artifactId>scala-steward-core_2.13</artifactId>
-            <version>0.22.0</version>
+            <version>0.23.0</version>
         </dependency>
     </dependencies>
 </project>
