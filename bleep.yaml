@@ -4,12 +4,12 @@ jvm:
   name: graalvm-java17:22.2.0
 projects:
   mycli:
-    dependencies: com.lihaoyi::fansi:0.3.0
+    dependencies: com.lihaoyi::fansi:0.3.1
     extends: template-common
     platform:
       mainClass: com.foo.App
   tests:
-    dependencies: org.scalatest::scalatest:3.2.12
+    dependencies: org.scalatest::scalatest:3.2.13
     dependsOn: mycli
     extends: template-common
     isTestProject: true
