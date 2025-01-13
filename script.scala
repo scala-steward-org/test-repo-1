@@ -1,4 +1,4 @@
-//> using scala "2.13.14"
+//> using scala "2.13.15"
 //> using lib "com.lihaoyi::os-lib:0.9.3"
 
 //> using lib "com.lihaoyi::fansi:0.3.1"
